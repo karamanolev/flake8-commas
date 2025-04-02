@@ -4,6 +4,9 @@ Flake8 Extension to enforce better comma placement.
 **Note:** Forked from PyCQA/flake8-commas to add support for Python 3.11, match statement, and other features. Support
 for Python version below 3.7 has been dropped, as well as older (2.x.y) versions of flake8.
 
+**Further Note:** The changes here have been merged back into PyCQA/flake8-commas and a new version has been released
+so this repo is no longer needed and is now archived.
+
 Usage
 -----
 
